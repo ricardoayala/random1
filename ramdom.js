@@ -8,3 +8,4 @@ else
 {
 	console.log('\n' + numero + 'Mayor que 0.05 \n' );
 }
+console.log('numero');
